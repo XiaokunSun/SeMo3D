@@ -46,18 +46,14 @@
 
 ## 📰 News
 
-<!-- Keep news entries in reverse chronological order (newest first). -->
-
 - **[2026-11-01]** The [project page](https://xiaokunsun.github.io/SeMo3D.github.io/) is live! Explore our results on 3D generation, editing, completion, multimodal control, and agentic 3D modeling.
-
-<a id="todo"></a>
 
 ## 📋 TODO
 
 - ✅ Release the project page.
-- [ ] Release the paper on arXiv.
-- [ ] Release model weights on Hugging Face.
-- [ ] Release the complete inference, training, and evaluation code.
+- ⬜ Release the paper on arXiv.
+- ⬜ Release model weights on Hugging Face.
+- ⬜ Release the complete inference, training, and evaluation code.
 
 ## 📚 Citation
 
